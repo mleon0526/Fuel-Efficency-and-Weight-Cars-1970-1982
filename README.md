@@ -1,0 +1,1 @@
+This is an investigation done to find a correlation between the weight and the fuel efficiency in a set of 400 cars from different models of the years 1970-1982. I want to see wether the weight of a vehicle affects the efficiency of a  car at handling fuel management.
